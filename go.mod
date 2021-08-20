@@ -1,3 +1,3 @@
-module github.com/kaiiak/grpcresolver
+module github.com/kaiiak/doji
 
 go 1.16
